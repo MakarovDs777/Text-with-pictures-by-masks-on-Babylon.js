@@ -7,3 +7,7 @@
 Отлично сделаем маску из массива чисел.
 
 [Text with pictures by masks (Version 1 - The mask on array numbers) | Babylon.js Playground](https://playground.babylonjs.com/#8RBA18)
+
+Сделаем XYZ версию а не XZ.
+
+[Text with pictures by masks (Version 2 - The mask on array numbers XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#H5TGR4)
