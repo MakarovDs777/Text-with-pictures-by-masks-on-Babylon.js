@@ -11,3 +11,7 @@
 Сделаем XYZ версию а не XZ.
 
 [Text with pictures by masks (Version 2 - The mask on array numbers XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#H5TGR4)
+
+Теперь сделаем версию с разветвлением.
+
+[Text with pictures by masks (Version 3 - The mask on array numbers XYZ version with forks) | Babylon.js Playground](https://playground.babylonjs.com/#FY143S)
