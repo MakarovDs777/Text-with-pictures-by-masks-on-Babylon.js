@@ -14,4 +14,4 @@
 
 Теперь сделаем версию с разветвлением.
 
-[Text with pictures by masks (Version 3 - The mask on array numbers XYZ version with forks) | Babylon.js Playground](https://playground.babylonjs.com/#FY143S)
+[Text with pictures by masks (Version 3 - The mask on array numbers XYZ version with forks) | Babylon.js Playground](https://playground.babylonjs.com/#FY143S#1)
